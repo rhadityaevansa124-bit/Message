@@ -77,7 +77,7 @@ body {
 }
 .signature {
   position: absolute;
-  bottom: -20px;
+  bottom: 6px;
   right: 6px;
   width: 180px;
   opacity: 0.9;
