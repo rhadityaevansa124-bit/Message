@@ -14,7 +14,7 @@ function showLetter() {
       if (i < message.length) {
         typedText.innerHTML += message.charAt(i);
         i++;
-        setTimeout(typeWriter, 50);
+        setTimeout(typeWriter, 80);
       }
     }
 
